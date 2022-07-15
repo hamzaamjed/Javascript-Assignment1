@@ -1,0 +1,182 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    /* background-color: lightslategray; */
+}
+
+body {
+    font-family: calibri;
+
+}
+
+.row {
+    margin: 30px 0px;
+
+}
+
+.nav-link {
+    text-decoration: none;
+    color: black;
+}
+
+.nav-link:hover {
+    border: 1px black solid;
+    color: black;
+}
+
+
+.Banner-Class {
+    background-image: url("images/banner.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    height: 320px;
+    display: table-cell;
+    vertical-align: middle;
+    text-align: center;
+}
+
+.Banner-Class p {
+    padding: 0px 180px;
+    font-weight: bold;
+}
+
+
+
+.heading-text {
+
+    text-align: center;
+}
+
+.heading-text p {
+    margin-bottom: 35px;
+}
+
+.link-style {
+
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    size: 14px;
+    padding: 10px 30px;
+    background-color: #b4d422;
+    border-radius: 8%;
+}
+
+.link-style:hover {
+    text-decoration: none;
+}
+
+
+.inner-service-blc h3 {
+    padding: 5% 0%;
+}
+
+.inner-service-blc p {
+    font-size: 13px;
+}
+
+.Service-Img {
+    width: 100%;
+}
+
+.service-heading {
+    text-align: center;
+}
+
+.Seperator-Line {
+    margin: 10px 0px;
+    border: 0.7px lightgray solid;
+}
+
+.label-value {
+    color: grey;
+    font-size: small;
+}
+
+.AboutUs-Content p {
+    padding-top: 40px;
+    padding-right: 100px;
+    font-size: 14px;
+}
+
+.AboutUs-Img img {
+    width: 100%;
+}
+
+.btn {
+    margin-top: 50px;
+}
+
+.Question-Banner {
+    background-image: url("images/qurestions-banner.jpg");
+    background-repeat: no-repeat;
+    /* background-position: center; */
+    background-size: 100% 100%;
+    height: 300px;
+    display: table-cell;
+    vertical-align: middle;
+    text-align: center;
+    padding: 60px;
+}
+
+.Question-Banner h1 {
+    font-size: 40px;
+}
+
+
+
+.Table-Heading {
+    text-align: left;
+    padding: 5px;
+}
+
+.Table-Content {
+    margin-top: 10px;
+    /* background-color:#b4d422; */
+}
+
+.Table-Content table {
+    width: 100%;
+    border: none;
+}
+
+
+.ContactUs-details {
+    background-color: aliceblue;
+    padding-top: 15px;
+}
+
+.ContactUs-details p,
+h5,
+ol {
+    padding: 10px 0px;
+}
+
+.ContactUs-details ol {
+    padding-left: 14px;
+}
+
+.container-fluid {
+    margin: 0px;
+    padding: 0px;
+}
+
+.contactUs-footer {
+    background-color: lightgray;
+}
+
+#view-on-google {
+    color: darkcyan;
+}
+
+.copyRight {
+    text-align: center;
+    margin: 0px;
+    background-color: black;
+    color: lightgray;
+}
+
+.remove-margin {
+    margin: 0px;
+}
